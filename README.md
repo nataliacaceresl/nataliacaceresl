@@ -4,3 +4,5 @@
 <img src="./robot.svg" height="20" style="vertical-align: middle;" /> &nbsp; computer science interests<br />
 <img src="./book-2.svg" height="20" style="vertical-align: middle;" /> &nbsp; tech / books / economics<br />
 <img src="./closedfolder.svg" height="20" style="vertical-align: middle;" /> &nbsp; caceresnatalia361@gmail.com 
+
+## <img src="./ https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" height="24" style="vertical-align: middle;" /> &nbsp; lang
